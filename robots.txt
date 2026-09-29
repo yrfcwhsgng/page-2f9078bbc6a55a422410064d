@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://web.momvip.cn/sitemap.xml
